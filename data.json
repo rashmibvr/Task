@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Rashmi",
+        "age" : 30,
+        "salary": 5000000,
+        "company": "Google"
+    },
+    {
+        "name": "Rani",
+        "age" : 31,
+        "salary": 3000000,
+        "company": "Apple"
+    },
+    {
+        "name": "Reema",
+        "age" : 32,
+        "salary": 2000000,
+        "company": "Infosys"
+    }
+]
